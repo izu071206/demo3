@@ -2,6 +2,7 @@
 Improved Dataset Generation với Advanced Features
 File: src/dataset/generate_dataset_improved.py
 """
+# python -m src.dataset.generate_dataset_improved --config config/dataset_config.yaml
 
 import logging
 import os
