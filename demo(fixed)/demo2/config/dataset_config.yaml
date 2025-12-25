@@ -32,11 +32,11 @@ dataset:
       api_list_path: "config/api_list.yaml"
 
     advanced:
-    enabled: true
-    entropy: true
-    packer_detection: true
-    string_analysis: true
-    pe_analysis: true
+      enabled: true
+      entropy: true
+      packer_detection: true
+      string_analysis: true
+      pe_analysis: true
 
   # Dataset split
   train_ratio: 0.7
